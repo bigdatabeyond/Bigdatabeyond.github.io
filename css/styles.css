@@ -11160,3 +11160,13 @@ footer a:hover, footer a:active, footer a:focus {
     max-width: 17rem;
   }
 }
+
+/* Increase font size of the section heading */
+.bigger-font {
+    font-size: 2em; /* Adjust the value as needed */
+}
+
+/* Increase font size of all text within playlists */
+.bigger-text {
+    font-size: 2em; /* Adjust the value as needed */
+}
